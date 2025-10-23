@@ -1,6 +1,11 @@
 # 🧩 Atividade Prática — Adapters + Strategy + Factory  
 ## Sistema de Integração de APIs de Mídia Social  
+Autores
 
+Andrey kusman Goncalves 
+
+
+Data: 23/10/2025
 ---
 
 ### 📘 **Objetivo**
