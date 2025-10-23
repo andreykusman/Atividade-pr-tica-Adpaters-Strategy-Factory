@@ -36,46 +36,4 @@ java -cp out social_integration.Main
 
 Diagrama de Classes (Simplificado)
 
-+----------------------+
-|     Conteudo         |
-+----------------------+
-| tipo: String         |
-| mensagem: String     |
-+----------------------+
 
-+----------------------+
-| MidiaSocialAdapter   |<-----------------+
-+----------------------+                  |
-| publicarConteudo()   |                  |
-+----------------------+                  |
-         ^                                |
-         |                                |
-+----------------------+    +----------------------+
-| InstagramAdapter     |    | TwitterAdapter       |
-+----------------------+    +----------------------+
-| api: InstagramAPI    |    | api: TwitterAPI      |
-+----------------------+    +----------------------+
-
-+----------------------+
-| SocialMediaFactory   |
-+----------------------+
-| criarAdapter(tipo)   |
-+----------------------+
-
-+----------------------+
-| EstrategiaPostagem   |<----------------+
-+----------------------+                 |
-| postar(adapter, c)   |                 |
-+----------------------+                 |
-         ^                               |
-         |                               |
-+----------------------+    +----------------------+
-| PostagemImagem       |    | PostagemVideo        |
-+----------------------+    +----------------------+
-
-+----------------------+
-| GerenciadorMidiaSocial |
-+----------------------+
-| estrategia: EstrategiaPostagem |
-| publicar(conteudo)            |
-+----------------------+
