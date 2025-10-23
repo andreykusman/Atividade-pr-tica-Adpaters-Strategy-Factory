@@ -16,14 +16,7 @@ O sistema permite publicar conteúdo em diferentes plataformas (Twitter, Instagr
 
 ### 🏗️ **Arquitetura do Projeto**
 
-src/
-└── social_integration/
-├── adapters/ → Implementações dos Adapters (InstagramAdapter, TwitterAdapter, etc.)
-├── apis/ → Simulações das APIs de cada rede social
-├── factory/ → SocialMediaFactory: cria adapters dinamicamente
-├── strategy/ → Estratégias de postagem (imagem, vídeo, texto)
-├── models/ → Classes de domínio (Conteudo, Publicacao, Resposta, Estatisticas)
-└── Main.java → Classe principal de execução
+<img width="213" height="484" alt="image" src="https://github.com/user-attachments/assets/4404e2b0-22e5-4c13-9e51-54244c2db724" />
 
 
 
