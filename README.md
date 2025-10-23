@@ -3,6 +3,7 @@
 Autores
 
 Andrey kusman Goncalves 
+Arthur Phelipe Mayer Santos
 
 
 Data: 23/10/2025
