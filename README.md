@@ -20,6 +20,7 @@ O sistema permite publicar conteúdo em diferentes plataformas (Twitter, Instagr
 
 <img width="213" height="484" alt="image" src="https://github.com/user-attachments/assets/4404e2b0-22e5-4c13-9e51-54244c2db724" />
 
+<img width="440" height="705" alt="Captura de tela 2025-10-25 092631" src="https://github.com/user-attachments/assets/41def851-bad2-4ec9-8097-977ec97359d8" />
 
 
 💻 Execução no Terminal
