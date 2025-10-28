@@ -18,9 +18,7 @@ O sistema permite publicar conteúdo em diferentes plataformas (Twitter, Instagr
 
 ### 🏗️ **Arquitetura do Projeto**
 
-<img width="213" height="484" alt="image" src="https://github.com/user-attachments/assets/4404e2b0-22e5-4c13-9e51-54244c2db724" />
-
-
+<img width="4551" height="1266" alt="Diagrama_de_Classe" src="https://github.com/user-attachments/assets/d90ee2df-353b-4f58-845a-a4d58afe471f" />
 
 
 💻 Execução no Terminal
