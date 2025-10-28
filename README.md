@@ -18,7 +18,7 @@ O sistema permite publicar conteúdo em diferentes plataformas (Twitter, Instagr
 
 ### 🏗️ **Arquitetura do Projeto**
 
-<img width="4551" height="1266" alt="Diagrama_de_Classe" src="https://github.com/user-attachments/assets/d90ee2df-353b-4f58-845a-a4d58afe471f" />
+<img width="213" height="484" alt="image" src="https://github.com/user-attachments/assets/4404e2b0-22e5-4c13-9e51-54244c2db724" />
 
 
 💻 Execução no Terminal
@@ -33,6 +33,8 @@ java -cp out social_integration.Main
 
 
 
-Diagrama de Classes (Simplificado)
-<img width="440" height="705" alt="Captura de tela 2025-10-25 092631" src="https://github.com/user-attachments/assets/41def851-bad2-4ec9-8097-977ec97359d8" />
+Diagrama de Classes
+
+<img width="4551" height="1266" alt="Diagrama_de_Classe" src="https://github.com/user-attachments/assets/8789f7e9-eec6-4316-b69c-58d2e501c4b8" />
+
 
